@@ -1,9 +1,6 @@
-# MineDiff
+# MineDiff - 差分抽出アプリ
 
-# Tauri + React + Typescript
+指定したフォルダ内の指定した日付以降に更新したファイルをディレクトリ構造ごとコピーするアプリ。
+PC買い替えに伴い以前まで使用していたアプリが使えなくなったこと、tauriの練習も兼ねて作成。
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
